@@ -1,0 +1,2 @@
+# connecting to db 
+db.connect() --> returns promise
